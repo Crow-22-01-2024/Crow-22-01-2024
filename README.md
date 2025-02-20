@@ -1,5 +1,7 @@
 # Hi, I'm @Crow-22-01-2024 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -13,10 +15,9 @@ I'm currently learning Spring Boot and expanding my backend development skills. 
 - [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in R to check the weather.
 - 🚧 *More projects coming soon...*
 
-### Connect with Me
-- [LeetCode](https://leetcode.com/u/Crow_666/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
+
+
 
 <!---
 Crow-22-01-2024/Crow-22-01-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
