@@ -16,7 +16,7 @@ I'm currently learning Spring Boot and expanding my backend development skills. 
 ### Connect with Me
 - [LeetCode](https://leetcode.com/u/Crow_666/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<tu-nombre-de-usuario>)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
 
 <!---
 Crow-22-01-2024/Crow-22-01-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
