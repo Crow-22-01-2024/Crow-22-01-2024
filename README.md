@@ -15,7 +15,7 @@ I'm currently learning Spring Boot and expanding my backend development skills. 
 - [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in R to check the weather.
 - 🚧 *More projects coming soon...*
 
-
+[![Crow-22-01-2024's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crow-22-01-2024&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
