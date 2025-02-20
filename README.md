@@ -4,8 +4,6 @@
 
 ### 💼 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
-<br>
-<br>
 <hr>
 
 ### 📊 GitHub Stats
