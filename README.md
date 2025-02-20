@@ -27,7 +27,7 @@ I'm currently learning Spring Boot and expanding my backend development skills. 
 
 
 ### Projects
-- [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in R to check the weather.
+- [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in Rust to check the weather.
 - 🚧 *More projects coming soon...*
 
 
