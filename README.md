@@ -7,14 +7,14 @@
 I'm currently learning Spring Boot and expanding my backend development skills. Passionate about coding, problem-solving, and constantly seeking new challenges.
 
 ### Skills
-- **Java**: Full domination of JavaSE(this includes the most important versions JavaSE 8, Java 11 and Java 17).
+- **Java**: Full domination of JavaSE (this includes the most important versions: JavaSE 8, Java 11, and Java 17).
 
 ### Projects
-- [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in R for check the Weather
+- [WeatherCLI](https://github.com/Crow-22-01-2024/weathercliapp): A simple WeatherCLI app in R to check the weather.
 - 🚧 *More projects coming soon...*
 
 ### Connect with Me
-- [LeetCode]([https://leetcode.com/your-profile](https://leetcode.com/u/Crow_666/))
+- [LeetCode](https://leetcode.com/u/Crow_666/)
 
 <!---
 Crow-22-01-2024/Crow-22-01-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
