@@ -1,6 +1,6 @@
 # Hi, I'm @Crow-22-01-2024 👋
 
-<div style="border: 2px solid #4CAF50; padding: 10px;">
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
 <br>
@@ -13,7 +13,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
 
 ### About Me
 I'm currently learning Spring Boot and expanding my backend development skills. Passionate about coding, problem-solving, and constantly seeking new challenges.
