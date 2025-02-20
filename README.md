@@ -7,11 +7,14 @@
 <br>
 <br>
 <hr>
+
 ### 📊 GitHub Stats
 [![Crow-22-01-2024's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crow-22-01-2024&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 <hr>
+
 ### 🔧 Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
