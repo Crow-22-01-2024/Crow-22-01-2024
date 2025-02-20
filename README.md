@@ -1,6 +1,6 @@
 # Hi, I'm @Crow-22-01-2024 👋
 
-<div style="border: 2px dashed #4CAF50; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #f0f0f0 25%, #d5e3d9 25%, #d5e3d9 50%, #f0f0f0 50%, #f0f0f0 75%, #d5e3d9 75%, #d5e3d9);">
+
 
 ### 💼 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
@@ -16,7 +16,6 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
 
 
 
