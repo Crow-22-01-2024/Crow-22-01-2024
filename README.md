@@ -1,6 +1,3 @@
-Claro, puedo ayudar con eso. Aquí está la misma información, pero con un estilo de fuente inspirado en el Black Metal:
-
----
 
 # 𝔥𝔦, 𝔦'𝔪 @ℭ𝔯𝔬𝔴-22-01-2024 👋
 
@@ -29,6 +26,4 @@ Claro, puedo ayudar con eso. Aquí está la misma información, pero con un esti
 - [𝔚𝔢𝔞𝔱𝔥𝔢𝔯𝔆𝔏𝔦](https://github.com/Crow-22-01-2024/weathercliapp): 𝔞 𝔰𝔦𝔪𝔭𝔩𝔢 𝔚𝔢𝔞𝔱𝔥𝔢𝔯𝔊𝔏𝔦 𝔞𝔭𝔭 𝔦𝔫 ℜ𝔲𝔰𝔱 𝔱𝔬 𝔠𝔥𝔢𝔠𝔨 𝔱𝔥𝔢 𝔴𝔢𝔞𝔱𝔥𝔢𝔯.
 - 🚧 *𝔪𝔬𝔯𝔢 𝔭𝔯𝔬𝔧𝔢𝔠𝔱𝔰 𝔠𝔬𝔪𝔦𝔫𝔤 𝔰𝔬𝔬𝔫...*
 
----
 
-Let me know if you need any more help or if there's anything else I can do for you!
