@@ -13,6 +13,8 @@
 ### About me
 I'm currently learning Spring Boot and expanding my backend development skills. Passionate about coding, problem-solving, and constantly seeking new challenges.
 
+My favorite aspect of programming is when you start to imagine and visualize the solution as if it physically existed in front of your eyes.
+
 ### Projects
 - [WeatherClI](https://github.com/Crow-22-01-2024/weathercliapp): a simple WeatherCLI app in Ruby to check the weather.
 - 🚧 *More projects coming soon...*
