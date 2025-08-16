@@ -19,10 +19,6 @@ My favorite aspect of programming is when you start to imagine and visualize the
 - [WeatherClI](https://github.com/Crow-22-01-2024/weathercliapp): a simple WeatherCLI app in Ruby to check the weather.
 - 🚧 *More projects coming soon...*
 
-
-# 💼 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Crow_666)
-
 <hr>
 
 ### 📊 GitHub Stats
