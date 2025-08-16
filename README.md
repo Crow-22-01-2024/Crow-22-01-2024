@@ -1,3 +1,4 @@
+<div style="background-color:#0d0d0d; color:#00ff00; padding:20px; font-family:monospace; border-radius:10px; box-shadow:0 0 10px #00ff00;">
 # Hi, I'm @Crow-22-01-2024 👋
 <div style="border: 2px dashed #4CAF50; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #f0f0f0 25%, #d5e3d9 25%, #d5e3d9 50%, #f0f0f0 50%, #f0f0f0 75%, #d5e3d9 75%, #d5e3d9);">
 
@@ -29,6 +30,4 @@ My favorite aspect of programming is when you start to imagine and visualize the
 [![Crow-22-01-2024's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crow-22-01-2024&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-
-
-
+</div>
