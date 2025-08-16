@@ -34,7 +34,7 @@
 </div>
 
 ### About me
-I'm currently learning Spring Boot and expanding my backend development skills. Passionate about coding, problem-solving, and constantly seeking new challenges.
+I'm currently learning Ruby on Rails and expanding my backend development skills. Passionate about coding, problem-solving, and constantly seeking new challenges.
 
 My favorite aspect of programming is when you start to imagine and visualize the solution as if it physically existed in front of your eyes.
 
