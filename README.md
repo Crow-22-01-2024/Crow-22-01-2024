@@ -28,6 +28,10 @@
       <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" /></td>
       <td style="color:#3399ff; font-weight:bold;">🔴 Intermediate </td>
     </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" /></td>
+      <td style="color:#3399ff; font-weight:bold;">🔴 Intermediate </td>
+    </tr>
   </tbody>
 </table>
 
