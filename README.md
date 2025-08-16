@@ -4,10 +4,32 @@
 
 
 ### 🌀 Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+<table style="font-family:monospace; background:#0d0d0d; color:#eee; border-collapse:collapse; width:100%">
+  <thead>
+    <tr>
+      <th style="color:#ff00ff; padding:8px;">🌀 Skills</th>
+      <th style="color:#ff00ff; padding:8px;">🔥 Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+      <td style="color:#ffcc00; font-weight:bold;">🟣 Advanced </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></td>
+      <td style="color:#ff0000; font-weight:bold;">🔴 Intermediate </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+      <td style="color:#00ffcc; font-weight:bold;">🟣 Advanced </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" /></td>
+      <td style="color:#3399ff; font-weight:bold;">🔴 Intermediate </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
